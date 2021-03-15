@@ -1,4 +1,4 @@
 LOCAL
-Just to practice resolving
+
+Just to practice resolving by
 Creating extra conflicts
-onflict.
